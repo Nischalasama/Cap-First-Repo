@@ -1,0 +1,16 @@
+<html>
+<head name="create an html page">
+<title> Test Title </title>
+</head>
+<body>
+<form id="login">
+<input name="username" type="text"> Username </input>
+<input name="pswd" type="text"> Password </input>
+<button id="btn123" name="submit" type="buttonVal" value="continue !"> Submit </button>
+</form>
+<div id="ebay">
+<a name="eB" href="https:\\www.ebay.com"> eBay </a>
+</div>
+<body>
+
+</html>
